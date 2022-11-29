@@ -2,6 +2,14 @@
     border: 1px solid lightgray;
     border-radius: 5px;
     padding: 10px;
+    width: 50%;
+    margin: auto;
+    background-color: #EF036C;
+    color: #31EC56;
+    font-size: 30px;
+    text-align: center;
+    margin-bottom: 10px;
+
 }
 .search-bar form {
     display: flex;
